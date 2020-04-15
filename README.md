@@ -1,5 +1,6 @@
 
 # api-project
+[![Build Status](https://travis-ci.org/survivingwithandroid/api-project.svg?branch=master)](https://travis-ci.org/survivingwithandroid/api-project)
 
 This project demonstrates how to build a Spring boot application that exposes an API to get citizen list filtered by fiscal code.
 
